@@ -11,6 +11,8 @@
 |
 */
 
+//HER ER EN KOMMENTAR!!!
+
 /*FRONT*/
 Route::get('/', 'FrontController@index');
 
